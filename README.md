@@ -23,8 +23,13 @@ Code to support both versions of the handbrake is now included in the [H-Shifter
 You'll also need the following items:
 
 1x M6 Clevis - https://www.aliexpress.com/item/1005001383989512.html
+
 1x M6x25 Washer - https://www.aliexpress.com/item/1005008724152831.html
+
 22mm Diameter 70mm Long 3mm Wire Spring - https://www.aliexpress.com/item/1005007839215181.html
+
 1x M6x140mm - https://www.aliexpress.com/item/1005008952546224.html
+
 2x 625 Bearings - https://www.aliexpress.com/item/1005006600483688.html
+
 1x 6x12x8 Retaining Collar - https://www.aliexpress.com/item/1005004975920947.html
