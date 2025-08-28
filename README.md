@@ -16,7 +16,15 @@ The files are split up into folders for each version. I've supplied STEP files f
 
 The "TPE Brake Bushing" file should be printed in flexible filament and without external walls to allow the print to compress nicely. I printed mine at 75% infill but you can tune that number up and down to vary the hardness.
 
-Code to support both versions of the handbrake is now included in the [H-Shifter](https://github.com/dmcke5/H-Shifter) software. If you don't already have the shifter, this code can still be used without any modifications. Here is a wiring diagram to connect the Load cell to the INA333 board and then your Arduino:
+Code to support both versions of the handbrake is now included in the [H-Shifter](https://github.com/dmcke5/H-Shifter) software. If you don't already have the shifter, this code can still be used without any modifications. Here is a wiring diagram to connect the Load cell to the INA333 board and then your Arduino. Make sure you include the jumpers across the potentiometer and between VREF and GND:
 
 ![Alt text](Wiring_Diagram.png "Wiring Diagram")
 
+You'll also need the following items:
+
+1x M6 Clevis - https://www.aliexpress.com/item/1005001383989512.html
+1x M6x25 Washer - https://www.aliexpress.com/item/1005008724152831.html
+22mm Diameter 70mm Long 3mm Wire Spring - https://www.aliexpress.com/item/1005007839215181.html
+1x M6x140mm - https://www.aliexpress.com/item/1005008952546224.html
+2x 625 Bearings - https://www.aliexpress.com/item/1005006600483688.html
+1x 6x12x8 Retaining Collar - https://www.aliexpress.com/item/1005004975920947.html
