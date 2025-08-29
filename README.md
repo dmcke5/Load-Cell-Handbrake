@@ -33,3 +33,21 @@ You'll also need the following items:
 2x 625 Bearings - https://www.aliexpress.com/item/1005006600483688.html
 
 1x 6x12x8 Retaining Collar - https://www.aliexpress.com/item/1005004975920947.html
+
+3x M5x50 (45's would be acceptable for the Laser cut version) - https://www.aliexpress.com/item/32965712827.html
+
+3x M5 Nyloc Nut - https://www.aliexpress.com/item/1005008280044118.html
+
+#### Extra parts for Laser Cut Version Only
+
+2x M6 Nyloc Nut - https://www.aliexpress.com/item/1005008280044118.html
+
+2x M6x20 - https://www.aliexpress.com/item/32965712827.html
+
+2x M5x35 - https://www.aliexpress.com/item/32965712827.html
+
+#### Extra parts for Printed Version Only
+
+2x M5x60 - https://www.aliexpress.com/item/32965712827.html
+
+1x 10mm Shaft 350mm Long - https://www.aliexpress.com/item/1005006293171727.html
